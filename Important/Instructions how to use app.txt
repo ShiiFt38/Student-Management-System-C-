@@ -1,0 +1,11 @@
+1. For the first time using the app,run the create database query  on Sql Server to create the database used by the program.
+
+2.Only admin users can Log in, existing users are;
+    Username = Tshepo    Password = 577893
+   Username = Reabetswe   Password = 576993
+  Username = Tebogo    Password = 578663
+
+3. Make sure to extract Big Five_PRG261_Project before trying to run the program.
+
+
+ 
