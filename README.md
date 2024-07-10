@@ -48,7 +48,7 @@ This Student Management System was developed as part of a Diploma in I.T. course
 ## How to Use
 
 1. Launch the application from your IDE
-2. Use the login credentials provided in the `Instructions.txt` file located in the `Important` folder
+2. Use the login credentials provided in the `Instructions how to use app.txt` file located in the `Important` folder
 3. Follow the on-screen instructions to manage student records
 
 For detailed instructions on how to use the application, please refer to the `Instructions.txt` file in the `Important` folder.
